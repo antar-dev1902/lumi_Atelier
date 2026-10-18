@@ -1,0 +1,12 @@
+node_modules
+dist
+.data
+.qa-*
+qa
+.env
+.env.*
+!.env.example
+.vercel
+PROJECT_NOTES.md
+src/crt-reference.css
+scripts/test-*
