@@ -1,0 +1,98 @@
+[
+  {
+    "file": "reverie-2.webp",
+    "author": "Tamara Bellis",
+    "source": "https://unsplash.com/photos/sCG_oQc21l4",
+    "description": "Red dress",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "reverie-3.webp",
+    "author": "iKshana Productions",
+    "source": "https://unsplash.com/photos/jrsWp9tDvlo",
+    "description": "Golden embroidered gown",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "city-3.webp",
+    "author": "Aiony Haust",
+    "source": "https://unsplash.com/photos/IXYxqP4zejo",
+    "description": "White blazer",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "reverie-cobalt.webp",
+    "author": "Cherry Ann Gonzales",
+    "source": "https://www.pexels.com/photo/elegant-woman-in-blue-formal-gown-posing-33917600/",
+    "description": "Cobalt embroidered ballgown with folded neckline",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "reverie-garden.webp",
+    "author": "kerby genil",
+    "source": "https://www.pexels.com/photo/young-woman-standing-in-the-garden-wearing-a-floral-dress-16354678/",
+    "description": "Blue and violet floral gown with off-shoulder sleeves",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "city-fuchsia.webp",
+    "author": "Adara Cox",
+    "source": "https://www.pexels.com/photo/stylish-woman-posing-in-vibrant-pink-suit-outdoors-30258598/",
+    "description": "Fuchsia cropped trouser suit",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "city-lemon.webp",
+    "author": "Mikhail Nilov",
+    "source": "https://www.pexels.com/photo/woman-in-yellow-dress-standing-on-brown-background-7625117/",
+    "description": "Sky blue blazer over a lemon slip dress",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "city-mint.webp",
+    "author": "Sasha Kim",
+    "source": "https://www.pexels.com/photo/a-woman-wearing-green-suit-8483677/",
+    "description": "Mint green tailored suit",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "bloom-bow.webp",
+    "author": "Allan González",
+    "source": "https://www.pexels.com/photo/stylish-woman-in-bold-pink-bow-dress-30730741/",
+    "description": "Oversized pale pink bow over a fuchsia mini dress",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "bloom-orange.webp",
+    "author": "aderoba joel",
+    "source": "https://www.pexels.com/photo/elegant-woman-in-vibrant-orange-dress-31489448/",
+    "description": "Sculptural orange balloon-sleeve dress",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "bloom-tulle.webp",
+    "author": "Felix Young",
+    "source": "https://www.pexels.com/photo/young-woman-wearing-a-pink-tulle-dress-17002233/",
+    "description": "Pink corset mini dress with ribbon straps and tiered tulle",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "file": "bloom-lemon.webp",
+    "author": "Antonio Friedemann",
+    "source": "https://www.pexels.com/photo/woman-wearing-a-yellow-dress-8328538/",
+    "description": "Lemon lace mini dress with scalloped hem",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "kind": "typography",
+    "families": [
+      "Fraunces (upright and italic)",
+      "DM Sans",
+      "Space Mono"
+    ],
+    "source": "https://fonts.google.com",
+    "licence": "SIL Open Font License 1.1",
+    "files": "public/fonts; family OFL licences included",
+    "notes": "Bundled locally for consistent offline display. No external font request is required."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "lumis-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:ui": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "node server/index.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test:api": "node scripts/test-api.mjs",
+    "test:ui": "node scripts/test-ui.mjs",
+    "test:narration": "node scripts/test-narration.mjs",
+    "test:mobile": "node scripts/test-mobile.mjs",
+    "test:atelier": "node scripts/test-atelier.mjs",
+    "test:performance": "node scripts/test-performance.mjs",
+    "test:vercel": "node scripts/test-vercel.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.0.2",
+    "vite": "8.0.13"
+  }
+}
